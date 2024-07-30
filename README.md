@@ -1,6 +1,6 @@
 # Vahinkoilmoitus -mobiilisovellus
 
-## _Tekijät: Janita Kaikkonen, Jussi Mäki, Janika Savela
+## Tekijät: Janita Kaikkonen, Jussi Mäki, Janika Savela
 
 ## Esittely
 
