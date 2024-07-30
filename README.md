@@ -33,7 +33,7 @@ Vahinkoilmoitus sovellus on Oulun ammattikorkeakoulun 3. vuoden projektikurssill
 - Kehitysympäristönä toimi Visual Studio Code
 - Ohjelmointikielinä Javascript
 - Versionhallintaan käytettiin GitHub-työympäristöä
-- Projekti toteutettiin Scrum ohjelmistokehitysmallin mukaisesti. Sprinttien jakoon ja työajanseurantaan käytimme Hacknplania ( https://app.hacknplan.com/p/194592/kanban?categoryId=0&boardId=536323 )
+- Projekti toteutettiin Scrum ohjelmistokehitysmallin mukaisesti. Sprinttien jakoon ja työajanseurantaan käytimme Hacknplania (https://hacknplan.com/) 
 
 ![image](https://github.com/user-attachments/assets/4c781bd6-9281-4b67-bde1-5de69de4d562)
 ##### Kuva 3: Visual Studio Code kehitysympäristö ja sieltä App.js tiedosto
