@@ -44,9 +44,9 @@ Kaikki mitä sovellukseen suunniteltiin, saatiin tehtyä​. Tiiminä toimimme h
 
 ### Työtuntien jakautuminen
 
-Jussi Mäki: 49h / 31%​
-Janita Kaikkonen: 58h / 37%​
-Janika Savela: 46h / 29%
+- Jussi Mäki: 49h / 31%​
+- Janita Kaikkonen: 58h / 37%​
+- Janika Savela: 46h / 29%
 
 ### Esittelyvideo 
 
